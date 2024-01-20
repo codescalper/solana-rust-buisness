@@ -2,6 +2,8 @@
 import React, { useState } from 'react';
 import Logo from './logo';
 import { Button } from './ui/button';
+import { WalletMultiButton } from '@solana/wallet-adapter-react-ui';
+require('@solana/wallet-adapter-react-ui/styles.css');
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -66,9 +68,12 @@ const Header = () => {
         </ul>
 
         {/* Wallet connect button (outside hamburger menu) */}
-        <Button className="md:bg-gray-100 md:hover:text-gray-100 md:text-gray-900 px-4 py-2 rounded-full">
-          Connect Wallet
-        </Button>
+        <WalletMultiButton className=" md:bg-gray-100 md:hover:text-gray-100 md:text-gray-900 px-4 py-2 rounded-full" >
+         Connect Wallet
+        </WalletMultiButton>
+        {/* <WalletMultiButton /> */}
+     
+
       </nav>
     </header>
   );
