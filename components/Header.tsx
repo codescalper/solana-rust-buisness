@@ -68,7 +68,7 @@ const Header = () => {
         </ul>
 
         {/* Wallet connect button (outside hamburger menu) */}
-        <WalletMultiButton className=" md:bg-gray-100 md:hover:text-gray-100 md:text-gray-900 px-4 py-2 rounded-full" >
+        <WalletMultiButton className=" bg-gray-100 hover:text-gray-100 text-gray-900 px-4 py-2 rounded-full" >
          Connect Wallet
         </WalletMultiButton>
         {/* <WalletMultiButton /> */}
