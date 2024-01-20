@@ -1,0 +1,28 @@
+{
+    "name": "SRB #3721",
+    "symbol": "SRB",
+    "description": "The Vibrant Crabs bring color and vibrancy to the ocean floor. With their dazzling hues and lively personalities, these crabs create a vivid underwater spectacle, turning the sea into a mesmerizing canvas.",
+    "image": "8.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "crab"
+        },
+        {
+            "trait_type": "color",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "goggles",
+            "value": "yes"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "8.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

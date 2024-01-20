@@ -1,0 +1,28 @@
+{
+    "name": "SRB #3716",
+    "symbol": "SRB",
+    "description": "The Adventurous Crabs are fearless explorers, always seeking new horizons in the vast ocean. With their daring spirit, these crabs venture into uncharted waters, discovering hidden wonders beneath the surface.",
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "crab"
+        },
+        {
+            "trait_type": "color",
+            "value": "red"
+        },
+        {
+            "trait_type": "goggles",
+            "value": "yes"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

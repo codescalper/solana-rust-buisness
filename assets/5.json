@@ -1,0 +1,28 @@
+{
+    "name": "SRB #3718",
+    "symbol": "SRB",
+    "description": "The Playful Crabs are known for their joyful antics and playful behavior. These lively creatures bring laughter to the underwater world, spreading joy with their exuberant spirit.",
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "crab"
+        },
+        {
+            "trait_type": "color",
+            "value": "red"
+        },
+        {
+            "trait_type": "goggles",
+            "value": "yes"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

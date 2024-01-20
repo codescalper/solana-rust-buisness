@@ -1,0 +1,28 @@
+{
+    "name": "SRB #3715",
+    "symbol": "SRB",
+    "description": "The Wise Crabs are known for their intellect and wisdom. These crabs are often seen pondering the mysteries of the ocean, sharing their profound insights with other sea creatures.",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "crab"
+        },
+        {
+            "trait_type": "color",
+            "value": "red"
+        },
+        {
+            "trait_type": "goggles",
+            "value": "yes"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

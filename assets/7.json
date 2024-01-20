@@ -1,0 +1,28 @@
+{
+    "name": "SRB #3720",
+    "symbol": "SRB",
+    "description": "The Resilient Crabs are known for their strength and perseverance. Weathering the challenges of ocean life, these crabs stand as resilient beacons, inspiring other sea creatures to face adversity with determination.",
+    "image": "7.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "crab"
+        },
+        {
+            "trait_type": "color",
+            "value": "maroon"
+        },
+        {
+            "trait_type": "goggles",
+            "value": "yes"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "7.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

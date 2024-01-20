@@ -1,0 +1,28 @@
+{
+    "name": "SRB #3717",
+    "symbol": "SRB",
+    "description": "The Serene Crabs embody tranquility and calmness. These peaceful creatures navigate the ocean currents gracefully, bringing a sense of harmony to their aquatic surroundings.",
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "crab"
+        },
+        {
+            "trait_type": "color",
+            "value": "red"
+        },
+        {
+            "trait_type": "goggles",
+            "value": "yes"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "SRB #3722",
+    "symbol": "SRB",
+    "description": "The Visionary Crabs possess a unique foresight and insight into the mysteries of the ocean. With their visionary perspectives, these crabs navigate the underwater realm with purpose, unraveling the secrets hidden beneath the waves.",
+    "image": "9.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "crab"
+        },
+        {
+            "trait_type": "color",
+            "value": "gold"
+        },
+        {
+            "trait_type": "goggles",
+            "value": "yes"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "9.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "SRB #3719",
+    "symbol": "SRB",
+    "description": "The Mysterious Crabs are enigmatic and intriguing. Veiled in a sense of mystique, these crabs navigate the depths of the ocean with an air of secrecy, leaving other sea creatures curious about their underwater adventures.",
+    "image": "6.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "crab"
+        },
+        {
+            "trait_type": "color",
+            "value": "purple"
+        },
+        {
+            "trait_type": "goggles",
+            "value": "yes"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "6.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
