@@ -3,6 +3,7 @@ import Hero from "@/components/HeroClient";
 import Image from "next/image";
 import WalletProviderWrapper from "@/components/WalletProvider";
 import Header from "@/components/Header";
+import DisplayNft from "@/components/DisplayNft";
 
 export default function Home() {
 
@@ -11,7 +12,8 @@ export default function Home() {
     <>
       <WalletProviderWrapper>
       <Header />
-        <Hero />
+      <Hero />
+      {/* <DisplayNft /> */}
       </WalletProviderWrapper>
     </>
   );
